@@ -26,6 +26,7 @@ const KhzMrk = {
         ],
         infrastructure: [
             "DevOps: CI/CD Pipelines, Docker, Railway, Vercel",
+            "Cloud Security & Performance: Cloudflare (DNS, WAF, Workers, Caching)",
             "Real-time Fleet Tracking Integration (GPS/JUSDA API Gateway)"
         ]
     },
@@ -37,8 +38,20 @@ const KhzMrk = {
             performance: "Sustained 100+ concurrent users in live Production environments"
         },
         procurement: "Strategic Negotiation with 140+ Transport Vendors & Shipping Lines",
-        scale: "Engineering real-time visibility for 160+ trucks fleet",
-        growth: "Scaled digital presence from 0 to 1,000+ followers in 30 days"
+        scale: "Engineering real-time visibility for 160+ trucks fleet"
+    },
+
+    certifications: {
+        supply_chain: [
+            "Supply Chain Logistics - Rutgers University (Credential: DGVOY0S1B1WN)",
+            "Supply Chain Planning - Rutgers University (Credential: 3GV1FOFA9ALG)",
+            "Supply Chain Operations - Rutgers University (Credential: C36TW8DW2453)"
+        ],
+        technical: [
+            "Java Fundamentals - CodeLearn.io",
+            "Microsoft Office Specialist (MOS) PowerPoint - Microsoft",
+            "Organic Marketing & Digital Growth - Coursera"
+        ]
     },
 
     featuredProjects: {
